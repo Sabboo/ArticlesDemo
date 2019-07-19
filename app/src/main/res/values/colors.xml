@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/mine_shaft_2E2D2D</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
+    <color name="colorAccent">@android:color/holo_blue_dark</color>
+    <color name="mine_shaft_2E2D2D">#2E2D2D</color>
+</resources>
